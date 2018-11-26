@@ -1,6 +1,7 @@
 import time
 from selenium import webdriver
 print('hey')
+print("hello")
 
 ### Opens the website, pressing on login button and "not sign yet" button
 driver = webdriver.Chrome(executable_path="C:\selenium\chromeDriver_selenium\chromedriver.exe")
